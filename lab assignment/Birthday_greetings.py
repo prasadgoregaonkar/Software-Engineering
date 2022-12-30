@@ -2,7 +2,7 @@
 """
     This is a simple webserver implemented using Python Flask library
 
-    Author: Alia Bandarkar
+    Prasad Goregaonkar
 """
 from flask import Flask, request
 from datetime import datetime
