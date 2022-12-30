@@ -1,6 +1,6 @@
 '''
 program to send OTP to the given email id using python smtplib
-Author: Alia Ibrahim Bandarkar
+Prasad Goregaonkar
 
 
 '''
